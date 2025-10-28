@@ -65,15 +65,15 @@
 - 系统登录页：
 ![系统登录页](https://github.com/Fairy0724/SSM-EMS/blob/master/src/main/webapp/img/screenshot/login.png)
 - 主页面：
-![系统登录页](https://github.com/Fairy0724/SSM-EMS/blob/master/src/main/webapp/img/screenshot/mainPage.png)
-- 员工个人中心：
-![员工个人中心](https://github.com/Fairy0724/SSM-EMS/blob/master/src/main/webapp/img/screenshot/departmentList.png)
+![主页面](https://github.com/Fairy0724/SSM-EMS/blob/master/src/main/webapp/img/screenshot/mainPage.png)
+- 员工个人信息：
+![员工个人信息](https://github.com/Fairy0724/SSM-EMS/blob/master/src/main/webapp/img/screenshot/self.png)
 - 部门列表：
-![系统登录页](https://github.com/Fairy0724/SSM-EMS/blob/master/src/main/webapp/img/screenshot/departmentList.png)
+![部门列表](https://github.com/Fairy0724/SSM-EMS/blob/master/src/main/webapp/img/screenshot/departmentList.png)
 - 职位列表：
-![系统登录页](https://github.com/Fairy0724/SSM-EMS/blob/master/src/main/webapp/img/screenshot/positionList.png)
+![职位列表](https://github.com/Fairy0724/SSM-EMS/blob/master/src/main/webapp/img/screenshot/positionList.png)
 - 员工列表：
-![系统登录页](https://github.com/Fairy0724/SSM-EMS/blob/master/src/main/webapp/img/screenshot/employeeList.png)
+![员工列表](https://github.com/Fairy0724/SSM-EMS/blob/master/src/main/webapp/img/screenshot/employeeList.png)
 ## 快速开始
 
 ### 1. 克隆项目
